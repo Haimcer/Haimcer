@@ -18,8 +18,6 @@
 
 ### Eu estou estudando... 🧩
 
-**Tecnologias e Ferramentas**
-
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
