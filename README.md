@@ -1,6 +1,6 @@
 # academy-template-readme-profile
 
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo Allan Ribeiro 👋
 
 ### Sobre mim
 
@@ -11,15 +11,13 @@
 
 🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade | Escola | Curso]
 
-👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
+🔎 Também sou curioso sobre Inteligência Artificial
 
-🔎 Também sou curioso sobre [Temas que você gosta]
+✒️ Eu gosto de no meu tempo livre jogar RPG de mesa;
 
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
+📚 Lendo: 1983
 
-📚 Lendo: [Livro que está lendo atualmente]
-
-### Eu já trabalhei com... 🔧
+### Eu já trabalhei com vendas o que contrubuiu muito para minha habilidade de comunicação e gerência de tempo.
 
 **Tecnologias e Ferramentas**
 
