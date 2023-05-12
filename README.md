@@ -16,7 +16,7 @@
 
 📚 Lendo: 1983
 
-### Eu já trabalhei com vendas o que contrubuiu muito para minha habilidade de comunicação e gerência de tempo.
+### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
 
