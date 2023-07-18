@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack | Mobile]
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
