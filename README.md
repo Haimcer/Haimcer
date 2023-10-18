@@ -1,5 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F&height=120&section=header"/>
 
-# Oi, me chamo Allan Ribeiro 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F&size=30&center=true&vCenter=true&width=1000&lines=Oii!,+meu+nome+e+Allan+Ribeiro;bem+vindo!+:%26)](https://git.io/typing-svg)
+<br>
 
 ### Sobre mim
 
@@ -66,3 +69,4 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <!--
 **academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F&height=120&section=header"/>
