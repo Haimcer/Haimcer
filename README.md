@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F&size=30&center=true&vCenter=true&width=1000&lines=Olá!,+meu+nome+e+Allan+Ribeiro;bem+vindo!+:%26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F&size=30&center=true&vCenter=true&width=1000&lines=Olá!,+meu+nome+e+Allan+Ribeiro;Bem+vindo!+26)](https://git.io/typing-svg)
 <br>
 
 ### Sobre mim
